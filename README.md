@@ -3,8 +3,9 @@
 **Ball in a Maze** is a thrilling Unity game where you navigate a ball through a maze to collect coins before the timer runs out. Collect all the coins to win, but watch out for the walls!
 
 # GamePlay Video
+![maxresdefault (1)](https://github.com/user-attachments/assets/2525897d-8c5e-4be1-b610-2baac0b688d5)
 
-[![Watch the video](https://img.youtube.com/vi/QCEEj5Fydz4/maxresdefault.jpg)](https://www.youtube.com/watch?v=QCEEj5Fydz4)
+
 
 ## Game Features
 
