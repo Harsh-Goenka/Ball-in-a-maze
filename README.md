@@ -26,7 +26,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Shashank01729/Ball-In-A-Maze.git
+   git clone https://github.com/Harsh-Goenka/Ball-in-a-maze.git
    ```
 2. **Open the project in Unity:**
 
